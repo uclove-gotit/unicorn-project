@@ -9,10 +9,13 @@
 5. [Project Name](#marketflash_analysis)
 6. [Project Name](#unicorn_analysis)
 7. [Project Name](#bruce_springsteen_analysis)
+
+   
    
 OBJECTIVES
 
 TravelTide aimed to segment its customer base to support a new personalized rewards program. This initiative helps to deliver tailored incentives based on traveler behavior, enhance customer satisfaction, and drive revenue through increased engagement.
+
 Data Filtering: Selected users with more than seven sessions post-January 4, 2023, to focus on active customers.​
 Session Analysis: Examined session durations, page clicks, and booking activities to understand user engagement.​
 Trip Evaluation: Assessed trip details, including cancellations, to identify valid travel experiences.​
