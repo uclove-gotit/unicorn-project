@@ -9,6 +9,9 @@
 5. [Project Name](#marketflash_analysis)
 6. [Project Name](#unicorn_analysis)
 7. [Project Name](#bruce_springsteen_analysis)
+   
+OBJECTIVES
+TravelTide aimed to segment its customer base to support a new personalized rewards program. This initiative helps to deliver tailored incentives based on traveler behavior, enhance customer satisfaction, and drive revenue through increased engagement.
 
 https://public.tableau.com/views/Traveltideproject_17452475307370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
