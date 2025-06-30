@@ -9,3 +9,4 @@
 
 https://public.tableau.com/views/Traveltideproject_17452475307370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+<img width="1123" alt="Screenshot 2025-06-30 at 09 28 46" src="https://github.com/user-attachments/assets/0ca22f0d-a7d0-4773-ab8f-a5a30a195495" />
