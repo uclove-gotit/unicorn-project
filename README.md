@@ -11,7 +11,15 @@
 7. [Project Name](#bruce_springsteen_analysis)
    
 OBJECTIVES
+
 TravelTide aimed to segment its customer base to support a new personalized rewards program. This initiative helps to deliver tailored incentives based on traveler behavior, enhance customer satisfaction, and drive revenue through increased engagement.
+
+Data Filtering: Selected users with more than seven sessions post-January 4, 2023, to focus on active customers.​
+Session Analysis: Examined session durations, page clicks, and booking activities to understand user engagement.​
+Trip Evaluation: Assessed trip details, including cancellations, to identify valid travel experiences.​
+Behavioral Metrics: Calculated metrics such as the number of trips, flights booked, hotel spending, and average distance traveled.​
+Demographic Profiling: Incorporated user demographics like age, gender, marital status, and presence of children.​
+
 
 https://public.tableau.com/views/Traveltideproject_17452475307370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
